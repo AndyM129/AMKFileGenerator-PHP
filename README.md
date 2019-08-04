@@ -12,10 +12,11 @@
 -------
 
 <p align="center">
-    <a href="#What-is-AMKFileGenerator-PHP?">What is AMKFileGenerator-PHP?</a> &bull;
-    <a href="#Key-features">Key features</a> &bull;
-    <a href="#Author">Author</a> &bull;
-    <a href="#License">License</a>
+    <a href="#what-is-amkfilegenerator-php">What is AMKFileGenerator-PHP?</a> &bull;
+    <a href="#key-features">Key features</a> &bull;
+    <a href="#usage">Usage</a> &bull;
+    <a href="#author">Author</a> &bull;
+    <a href="#license">License</a>
 </p>
 
 -------
